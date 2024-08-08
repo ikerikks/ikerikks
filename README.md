@@ -4,7 +4,7 @@ Welcome to my profile!
 #### About Me 🤔
 - 📖 I'm a student, at **Holberton School**, a programming school in Paris.
 - 💻 Currentlty in my second year: Fullstack specialization.
-- 👨‍💻 In search of an internship in web developement.
+- 👨‍💻 Looking for an internship in web developement.
 
 
 #### Technologies
